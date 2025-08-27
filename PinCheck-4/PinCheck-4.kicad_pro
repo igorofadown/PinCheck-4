@@ -239,6 +239,7 @@
       "single_global_label": "ignore",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
+      "undefined_netclass": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"
@@ -411,6 +412,22 @@
     [
       "8e21fa9a-50eb-4ff7-ab75-73c4d6c5f942",
       "Root"
+    ],
+    [
+      "83536851-927e-4d27-972f-18188fbc94fe",
+      "Clock_Logic"
+    ],
+    [
+      "dc8a47c7-af7d-496f-bdd4-71159f816556",
+      "Seq_Logic"
+    ],
+    [
+      "18f07d9e-ab3c-42ec-9938-33f6c3daee65",
+      "Pass_Logic"
+    ],
+    [
+      "a76d8128-c5df-4402-92aa-1b9c9d4e86e6",
+      "Fail_Logic"
     ]
   ],
   "text_variables": {}
