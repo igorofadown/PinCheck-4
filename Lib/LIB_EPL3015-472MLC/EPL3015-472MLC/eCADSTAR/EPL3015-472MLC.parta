@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_267662"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-08-05-06:29:00)
+    (utime 2024-10-22-09:13:33)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "EPL3015-472MLC")
+)
+
+
+(pinAssign "ECS_267662"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-08-05-06:29:00)
+    (utime 2024-10-22-09:13:33)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_267662")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "EPL3015-472MLC")
+)
+
+
+(part "EPL3015-472MLC"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-08-05-06:29:00)
+    (utime 2024-10-22-09:13:33)
+    (packageRef "EPL3015-472MLC")
+    (pinAssignRef "ECS_267662")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "L")
+    (property "description" "Power Inductors - SMD 4.7uH Shld 20% 1.4A 167mOhms AECQ2")
+    (property "Manufacturer_Name" "COILCRAFT")
+    (property "Manufacturer_Part_Number" "EPL3015-472MLC")
+    (property "Mouser_Part_Number" "994-EPL3015-472MLC")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Coilcraft/EPL3015-472MLC?qs=zCSbvcPd3pbkmCtVqRBWqg%3D%3D")
+    (property "Arrow_Part_Number" "")
+    (property "Arrow_Price/Stock" "")
+    (property "Datasheet_Link" "https://www.mouser.ch/ProductDetail/Coilcraft/EPL3015-472MLC?qs=zCSbvcPd3pbkmCtVqRBWqg%3D%3D")
+    (property "compAreaTopHeight" 1.55)
+)
+
+

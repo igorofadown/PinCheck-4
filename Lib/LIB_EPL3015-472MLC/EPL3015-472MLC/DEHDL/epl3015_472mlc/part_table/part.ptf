@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'EPL3015_472MLC'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "COILCRAFT", "EPL3015-472MLC" (!) = "", "EPL3015472MLC", "Other", "994-EPL3015-472MLC", "https://www.mouser.co.uk/ProductDetail/Coilcraft/EPL3015-472MLC?qs=zCSbvcPd3pbkmCtVqRBWqg%3D%3D", "", "", "Power Inductors - SMD 4.7uH Shld 20% 1.4A 167mOhms AECQ2", "https://www.mouser.ch/ProductDetail/Coilcraft/EPL3015-472MLC?qs=zCSbvcPd3pbkmCtVqRBWqg%3D%3D", "1.55 mm"
+END_PART
+
+END.

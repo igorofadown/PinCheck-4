@@ -1,0 +1,18 @@
+.22-05-7048 :1 ;Headers & Wire Housings 4C RA F/L HEADER
+SHDRRA4W70P0X254_1X4_1016X1170X580P
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4"
+*MXP 4
+*DFN 22-05-7048
+~!Manufacturer_Name (Molex)
+~!Manufacturer_Part_Number (22-05-7048)
+~!Mouser Part Number (538-22-05-7048)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Molex/22-05-7048?qs=qjii0NTOo%252B5s41kJcR6UKA%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.molex.com/pdm_docs/sd/022057048_sd.pdf)
+~!Height (5.8mm)
+~!3D_Model (22-05-7048)
+"22-05-7048"
+1.1!U 2.1!U 3.1!U 4.1!U 

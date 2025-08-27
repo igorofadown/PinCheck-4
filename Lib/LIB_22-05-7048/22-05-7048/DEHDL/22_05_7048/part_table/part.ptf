@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '22_05_7048'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Molex", "22-05-7048" (!) = "", "SHDRRA4W70P0X254_1X4_1016X1170X580P", "Header, Shrouded - Right Angle PTH Box", "538-22-05-7048", "https://www.mouser.co.uk/ProductDetail/Molex/22-05-7048?qs=qjii0NTOo%252B5s41kJcR6UKA%3D%3D", "", "", "Headers & Wire Housings 4C RA F/L HEADER", "https://www.molex.com/pdm_docs/sd/022057048_sd.pdf", "5.8 mm"
+END_PART
+
+END.

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "EPL3015-472MLC"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-08-05-06:29:00)
+    (mountForm default
+        (footprintRef "EPL3015472MLC")
+        (spec "System")
+    )
+)

@@ -1,0 +1,126 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "EPL3015-472MLC"
+   (description "Power Inductors - SMD 4.7uH Shld 20% 1.4A 167mOhms AECQ2")
+   (family "IND")
+   (package "EPL3015472MLC")
+   (attribute "Datasheet Link" "https://www.mouser.ch/ProductDetail/Coilcraft/EPL3015-472MLC?qs=zCSbvcPd3pbkmCtVqRBWqg%3D%3D")
+   (attribute "Geometry.Height" "1.55mm")
+   (attribute "Manufacturer_Name" "COILCRAFT")
+   (attribute "Manufacturer_Part_Number" "EPL3015-472MLC")
+   (attribute "Mouser Part Number" "994-EPL3015-472MLC")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Coilcraft/EPL3015-472MLC?qs=zCSbvcPd3pbkmCtVqRBWqg%3D%3D")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "EPL3015-472MLC")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "EPL3015-472MLC"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path
+     (arc (pt 200 0) (pt 200 -52) (pt 300 48) (start -175.4) (sweep 177.7)) (pt 300 0))
+   )
+   (graphic
+    (stroke 10)
+    (path
+     (arc (pt 300 0) (pt 300 -52) (pt 400 48) (start -175.4) (sweep 177.7)) (pt 400 0))
+   )
+   (graphic
+    (stroke 10)
+    (path
+     (arc (pt 400 0) (pt 400 -52) (pt 500 48) (start -175.4) (sweep 177.7)) (pt 500 0))
+   )
+   (graphic
+    (stroke 10)
+    (path
+     (arc (pt 500 0) (pt 500 -52) (pt 600 48) (start -175.4) (sweep 177.7)) (pt 600 0))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 0) (rot 0) (mir X) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "EPL3015472MLC"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.5 -1.5)
+      (pt 1.5 -1.5)
+      (pt 1.5 1.5)
+      (pt -1.5 1.5)
+      (pt -1.5 -1.5))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.515 2.5)
+      (pt 2.515 2.5)
+      (pt 2.515 -2.5)
+      (pt -2.515 -2.5)
+      (pt -2.515 2.5))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -0.2 1.5)
+      (pt 0.2 1.5))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -0.2 -1.5)
+      (pt 0.2 -1.5))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.1 0)
+      (arc (pt -2.100 0.000) (pt -2.100 -0.050) (pt -2.000 0.050) (start 180.0) (sweep 180.0))
+      (pt -2 0)
+      (arc (pt -2.000 0.000) (pt -2.100 -0.050) (pt -2.000 0.050) (start 180.0) (sweep .0))
+      (pt -2.1 0))))
+   (leg 1 (pt -1.015 0.000) (padstack 0))
+   (leg 2 (pt 1.015 0.000) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1.000 2.900 0 0 90.000))
+   )
+   (model "EPL3015-472MLC.stp"
+    (euler 90 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

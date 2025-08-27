@@ -836,313 +836,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Device:LED"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "D"
-				(at 0 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "LED"
-				(at 0 -2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Light emitting diode"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Sim.Pins" "1=K 2=A"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "LED diode"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "LED* LED_SMD:* LED_THT:*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "LED_0_1"
-				(polyline
-					(pts
-						(xy -3.048 -0.762) (xy -4.572 -2.286) (xy -3.81 -2.286) (xy -4.572 -2.286) (xy -4.572 -1.524)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.778 -0.762) (xy -3.302 -2.286) (xy -2.54 -2.286) (xy -3.302 -2.286) (xy -3.302 -1.524)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 0) (xy 1.27 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 -1.27) (xy -1.27 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -1.27) (xy 1.27 1.27) (xy -1.27 0) (xy 1.27 -1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "LED_1_1"
-				(pin passive line
-					(at -3.81 0 0)
-					(length 2.54)
-					(name "K"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 3.81 0 180)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Device:R"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "R"
-				(at 2.032 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "R"
-				(at 0 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at -1.778 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Resistor"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "R res resistor"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "R_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "R_0_1"
-				(rectangle
-					(start -1.016 -2.54)
-					(end 1.016 2.54)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "R_1_1"
-				(pin passive line
-					(at 0 3.81 270)
-					(length 1.27)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -3.81 90)
-					(length 1.27)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "power:GND"
 			(power)
 			(pin_numbers
@@ -1454,12 +1147,6 @@
 		(color 0 0 0 0)
 		(uuid "ba765d26-3781-4b28-bbc4-63047f7c227c")
 	)
-	(junction
-		(at 185.42 152.4)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f8e4bd8e-72e7-4197-adcb-fddc27174ea5")
-	)
 	(no_connect
 		(at 224.79 137.16)
 		(uuid "241e1bbc-649d-410c-b35e-5e2fd3d0cf15")
@@ -1521,16 +1208,6 @@
 			(type default)
 		)
 		(uuid "19673181-2ae7-48e3-866e-839a2a863101")
-	)
-	(wire
-		(pts
-			(xy 185.42 137.16) (xy 182.88 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1efa9413-0141-411c-a46e-b97d595f6574")
 	)
 	(wire
 		(pts
@@ -1621,16 +1298,6 @@
 			(type default)
 		)
 		(uuid "541a80ba-76dc-4bbe-8608-156b852b790d")
-	)
-	(wire
-		(pts
-			(xy 170.18 152.4) (xy 185.42 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "54650cbd-4593-4925-8c68-bc224dddfcb4")
 	)
 	(wire
 		(pts
@@ -1784,7 +1451,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 152.4) (xy 212.09 152.4)
+			(xy 170.18 152.4) (xy 212.09 152.4)
 		)
 		(stroke
 			(width 0)
@@ -2068,6 +1735,28 @@
 			)
 		)
 	)
+	(global_label "G"
+		(shape output)
+		(at 182.88 137.16 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5ad788ed-0d62-4d1f-9464-b724e10f1662")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 187.1352 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "S3"
 		(shape input)
 		(at 199.39 71.12 180)
@@ -2342,7 +2031,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2eef94f1-47c8-4966-a95e-640c4c1cb8d3")
-		(property "Reference" "U5"
+		(property "Reference" "U8"
 			(at 99.06 62.1598 0)
 			(effects
 				(font
@@ -2358,7 +2047,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 88.9 68.58 0)
 			(effects
 				(font
@@ -2430,7 +2119,7 @@
 		(instances
 			(project "PinCheck-4"
 				(path "/8e21fa9a-50eb-4ff7-ab75-73c4d6c5f942/18f07d9e-ab3c-42ec-9938-33f6c3daee65"
-					(reference "U5")
+					(reference "U8")
 					(unit 1)
 				)
 			)
@@ -2446,7 +2135,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3237f2ad-721c-4831-b096-1870b7d974a3")
-		(property "Reference" "U7"
+		(property "Reference" "U9"
 			(at 99.06 130.7398 0)
 			(effects
 				(font
@@ -2462,7 +2151,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 88.9 137.16 0)
 			(effects
 				(font
@@ -2534,7 +2223,7 @@
 		(instances
 			(project "PinCheck-4"
 				(path "/8e21fa9a-50eb-4ff7-ab75-73c4d6c5f942/18f07d9e-ab3c-42ec-9938-33f6c3daee65"
-					(reference "U7")
+					(reference "U9")
 					(unit 1)
 				)
 			)
@@ -2550,7 +2239,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "390c83e2-1755-4997-a6a6-61d146b70e6d")
-		(property "Reference" "U7"
+		(property "Reference" "U9"
 			(at 222.25 130.7398 0)
 			(effects
 				(font
@@ -2566,7 +2255,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 212.09 137.16 0)
 			(effects
 				(font
@@ -2638,7 +2327,7 @@
 		(instances
 			(project "PinCheck-4"
 				(path "/8e21fa9a-50eb-4ff7-ab75-73c4d6c5f942/18f07d9e-ab3c-42ec-9938-33f6c3daee65"
-					(reference "U7")
+					(reference "U9")
 					(unit 4)
 				)
 			)
@@ -2654,7 +2343,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3edd7c0a-21a7-409f-94bf-ed557a735fbf")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR043"
 			(at 73.66 129.54 0)
 			(effects
 				(font
@@ -2704,86 +2393,7 @@
 		(instances
 			(project "PinCheck-4"
 				(path "/8e21fa9a-50eb-4ff7-ab75-73c4d6c5f942/18f07d9e-ab3c-42ec-9938-33f6c3daee65"
-					(reference "#PWR021")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 185.42 140.97 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4e11cfbc-e01e-49a1-9dd2-0ab05755ef46")
-		(property "Reference" "D10"
-			(at 189.23 141.2874 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "LED"
-			(at 189.23 143.8274 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 185.42 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 185.42 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 185.42 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 185.42 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "914b26dd-fc8d-4b2d-82ce-d86be505f967")
-		)
-		(pin "2"
-			(uuid "9937d837-ebcc-487c-a0dd-a0d53a7287e5")
-		)
-		(instances
-			(project "PinCheck-4"
-				(path "/8e21fa9a-50eb-4ff7-ab75-73c4d6c5f942/18f07d9e-ab3c-42ec-9938-33f6c3daee65"
-					(reference "D10")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -2799,7 +2409,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "588cc981-e924-4e3c-a334-b1b9ddf66645")
-		(property "Reference" "U5"
+		(property "Reference" "U8"
 			(at 180.34 62.1598 0)
 			(effects
 				(font
@@ -2815,7 +2425,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 170.18 68.58 0)
 			(effects
 				(font
@@ -2887,7 +2497,7 @@
 		(instances
 			(project "PinCheck-4"
 				(path "/8e21fa9a-50eb-4ff7-ab75-73c4d6c5f942/18f07d9e-ab3c-42ec-9938-33f6c3daee65"
-					(reference "U5")
+					(reference "U8")
 					(unit 3)
 				)
 			)
@@ -2903,7 +2513,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "64f0f22c-1153-4821-972d-fc931e8b75c4")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR046"
 			(at 212.09 92.71 0)
 			(effects
 				(font
@@ -2953,7 +2563,7 @@
 		(instances
 			(project "PinCheck-4"
 				(path "/8e21fa9a-50eb-4ff7-ab75-73c4d6c5f942/18f07d9e-ab3c-42ec-9938-33f6c3daee65"
-					(reference "#PWR040")
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -2969,7 +2579,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "653375b2-2a55-4911-aee7-12ca75ac9abf")
-		(property "Reference" "U5"
+		(property "Reference" "U8"
 			(at 222.25 62.1598 0)
 			(effects
 				(font
@@ -2985,7 +2595,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 212.09 68.58 0)
 			(effects
 				(font
@@ -3057,7 +2667,7 @@
 		(instances
 			(project "PinCheck-4"
 				(path "/8e21fa9a-50eb-4ff7-ab75-73c4d6c5f942/18f07d9e-ab3c-42ec-9938-33f6c3daee65"
-					(reference "U5")
+					(reference "U8")
 					(unit 4)
 				)
 			)
@@ -3073,7 +2683,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "70256e44-9fbb-4474-ab18-b59fb90ec0d5")
-		(property "Reference" "U7"
+		(property "Reference" "U9"
 			(at 180.34 130.7398 0)
 			(effects
 				(font
@@ -3089,7 +2699,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 170.18 137.16 0)
 			(effects
 				(font
@@ -3161,7 +2771,7 @@
 		(instances
 			(project "PinCheck-4"
 				(path "/8e21fa9a-50eb-4ff7-ab75-73c4d6c5f942/18f07d9e-ab3c-42ec-9938-33f6c3daee65"
-					(reference "U7")
+					(reference "U9")
 					(unit 3)
 				)
 			)
@@ -3177,7 +2787,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "75d5f79b-3d49-43c2-81ce-4c1fc5db1d24")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR045"
 			(at 88.9 110.49 0)
 			(effects
 				(font
@@ -3227,77 +2837,7 @@
 		(instances
 			(project "PinCheck-4"
 				(path "/8e21fa9a-50eb-4ff7-ab75-73c4d6c5f942/18f07d9e-ab3c-42ec-9938-33f6c3daee65"
-					(reference "#PWR022")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 185.42 148.59 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "805e64b4-ebba-4c59-8dcc-dedd92fb585f")
-		(property "Reference" "R16"
-			(at 187.96 147.3199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1k"
-			(at 187.96 149.8599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 183.642 148.59 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 185.42 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 185.42 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e9324da6-748a-46e5-965e-f53834a0c4b8")
-		)
-		(pin "2"
-			(uuid "075968aa-a720-4f7e-8376-ae7dfc1d0237")
-		)
-		(instances
-			(project "PinCheck-4"
-				(path "/8e21fa9a-50eb-4ff7-ab75-73c4d6c5f942/18f07d9e-ab3c-42ec-9938-33f6c3daee65"
-					(reference "R16")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -3313,7 +2853,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8a514aca-0a11-4f34-ac30-6424735b2578")
-		(property "Reference" "U5"
+		(property "Reference" "U8"
 			(at 139.7 62.1598 0)
 			(effects
 				(font
@@ -3329,7 +2869,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 129.54 68.58 0)
 			(effects
 				(font
@@ -3401,7 +2941,7 @@
 		(instances
 			(project "PinCheck-4"
 				(path "/8e21fa9a-50eb-4ff7-ab75-73c4d6c5f942/18f07d9e-ab3c-42ec-9938-33f6c3daee65"
-					(reference "U5")
+					(reference "U8")
 					(unit 2)
 				)
 			)
@@ -3417,7 +2957,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8ea69faf-6dbb-44ac-944a-37300cc1ed79")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR047"
 			(at 212.09 161.29 0)
 			(effects
 				(font
@@ -3467,7 +3007,7 @@
 		(instances
 			(project "PinCheck-4"
 				(path "/8e21fa9a-50eb-4ff7-ab75-73c4d6c5f942/18f07d9e-ab3c-42ec-9938-33f6c3daee65"
-					(reference "#PWR020")
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -3483,7 +3023,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "951dd774-1533-4340-a700-812a94a4927d")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR042"
 			(at 73.66 60.96 0)
 			(effects
 				(font
@@ -3533,7 +3073,7 @@
 		(instances
 			(project "PinCheck-4"
 				(path "/8e21fa9a-50eb-4ff7-ab75-73c4d6c5f942/18f07d9e-ab3c-42ec-9938-33f6c3daee65"
-					(reference "#PWR035")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -3549,7 +3089,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "985b1766-6122-45ef-9cc3-c56b89be8e3f")
-		(property "Reference" "C7"
+		(property "Reference" "C14"
 			(at 77.47 115.5699 0)
 			(effects
 				(font
@@ -3567,7 +3107,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 74.6252 120.65 0)
 			(effects
 				(font
@@ -3603,7 +3143,7 @@
 		(instances
 			(project "PinCheck-4"
 				(path "/8e21fa9a-50eb-4ff7-ab75-73c4d6c5f942/18f07d9e-ab3c-42ec-9938-33f6c3daee65"
-					(reference "C7")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -3619,7 +3159,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aa010936-b616-4a1a-94e8-249456d65b7f")
-		(property "Reference" "U7"
+		(property "Reference" "U9"
 			(at 139.7 130.7398 0)
 			(effects
 				(font
@@ -3635,7 +3175,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 129.54 137.16 0)
 			(effects
 				(font
@@ -3707,7 +3247,7 @@
 		(instances
 			(project "PinCheck-4"
 				(path "/8e21fa9a-50eb-4ff7-ab75-73c4d6c5f942/18f07d9e-ab3c-42ec-9938-33f6c3daee65"
-					(reference "U7")
+					(reference "U9")
 					(unit 2)
 				)
 			)
@@ -3723,7 +3263,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b29070f1-ea06-45e8-a1ca-9e89ff5c49d6")
-		(property "Reference" "C10"
+		(property "Reference" "C13"
 			(at 77.47 46.9899 0)
 			(effects
 				(font
@@ -3741,7 +3281,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 74.6252 52.07 0)
 			(effects
 				(font
@@ -3777,7 +3317,7 @@
 		(instances
 			(project "PinCheck-4"
 				(path "/8e21fa9a-50eb-4ff7-ab75-73c4d6c5f942/18f07d9e-ab3c-42ec-9938-33f6c3daee65"
-					(reference "C10")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -3793,7 +3333,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e8cf5f66-378f-46ec-b12a-6b1202fe71aa")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR044"
 			(at 88.9 41.91 0)
 			(effects
 				(font
@@ -3843,7 +3383,7 @@
 		(instances
 			(project "PinCheck-4"
 				(path "/8e21fa9a-50eb-4ff7-ab75-73c4d6c5f942/18f07d9e-ab3c-42ec-9938-33f6c3daee65"
-					(reference "#PWR036")
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)

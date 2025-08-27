@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "EPL3015472MLC"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "EPL3015472MLC")
+        (spec "default")
+    )
+)

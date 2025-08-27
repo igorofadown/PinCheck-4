@@ -1,0 +1,9 @@
+Manufacturer=Molex
+PartNumber=22-05-7048
+PartCategory=Connector
+PackageCategory=Header, Shrouded - Right Angle PTH Box
+PinCount=4
+Version=1.1
+Released=2020-12-10 10:51:57
+Downloaded=2025-08-27 16:53:10
+3D=Y
