@@ -3597,7 +3597,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "18f07d9e-ab3c-42ec-9938-33f6c3daee65")
-		(property "Sheetname" "Pass_Logic"
+		(property "Sheetname" "Pass_Fail_Logic"
 			(at 153.67 91.9984 0)
 			(effects
 				(font
@@ -3606,7 +3606,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "pass_logic.kicad_sch"
+		(property "Sheetfile" "pass_fail_logic.kicad_sch"
 			(at 153.67 123.7746 0)
 			(effects
 				(font
@@ -3703,48 +3703,6 @@
 			(project "PinCheck-4"
 				(path "/8e21fa9a-50eb-4ff7-ab75-73c4d6c5f942"
 					(page "3")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 181.61 53.34)
-		(size 54.61 30.48)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "a76d8128-c5df-4402-92aa-1b9c9d4e86e6")
-		(property "Sheetname" "Fail_Logic"
-			(at 181.61 52.6284 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "fail_logic.kicad_sch"
-			(at 181.61 84.4046 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "PinCheck-4"
-				(path "/8e21fa9a-50eb-4ff7-ab75-73c4d6c5f942"
-					(page "6")
 				)
 			)
 		)

@@ -628,11 +628,7 @@
     ],
     [
       "18f07d9e-ab3c-42ec-9938-33f6c3daee65",
-      "Pass_Logic"
-    ],
-    [
-      "a76d8128-c5df-4402-92aa-1b9c9d4e86e6",
-      "Fail_Logic"
+      "Pass_Fail_Logic"
     ]
   ],
   "text_variables": {}
