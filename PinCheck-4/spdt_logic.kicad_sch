@@ -4286,7 +4286,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "SMD Chip Resistor, 100 kohm, ± 1%, 500 mW, 0805 [2012 Metric], Thick Film (Double Sided)"
+			(at 168.91 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No" "ERJP6WF1003V"
 			(at 168.91 127 0)
 			(effects
 				(font
@@ -4356,8 +4365,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Low Capacitance, 4-Channel, 2 to 1 Switch, Powered-off Protection with 1.8V logic, TSOT-23-16"
+		(property "Description" "4 Circuit IC Switch 2:1 4.5Ohm 16-SOT-23-THIN"
 			(at 194.31 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No" "4 Circuit IC Switch 2:1 4.5Ohm 16-SOT-23-THIN"
+			(at 194.31 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4466,8 +4484,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "SMD Chip Resistor, Ceramic, 1 kohm, ± 1%, 125 mW, 0805 [2012 Metric], Thick Film, Sulfur Resistant"
 			(at 127 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No" "MCMR08X1001FTL"
+			(at 127 99.06 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4800,8 +4827,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "SMD Chip Resistor, Ceramic, 1 kohm, ± 1%, 125 mW, 0805 [2012 Metric], Thick Film, Sulfur Resistant"
 			(at 133.35 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No" "MCMR08X1001FTL"
+			(at 133.35 101.6 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5000,7 +5036,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Single Pole Single Throw (SPST) switch"
+		(property "Description" "Dip Switch SPST 1 Position Through Hole Slide (Standard) Actuator 25mA 24VDC"
+			(at 158.75 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No" "Dip Switch SPST 1 Position Through Hole Slide (Standard) Actuator 25mA 24VDC"
 			(at 158.75 121.92 0)
 			(effects
 				(font
@@ -5070,7 +5115,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 16 V, 0805 [2012 Metric], ± 10%, X7R"
+			(at 179.07 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No" "0805B104K160CT"
 			(at 179.07 73.66 0)
 			(effects
 				(font
@@ -5138,8 +5192,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "SMD Chip Resistor, Ceramic, 1 kohm, ± 1%, 125 mW, 0805 [2012 Metric], Thick Film, Sulfur Resistant"
 			(at 114.3 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No" "MCMR08X1001FTL"
+			(at 114.3 93.98 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5256,7 +5319,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Dsub:DSUB-15_Socket_Horizontal_P2.77x2.54mm_EdgePinOffset9.40mm"
+		(property "Footprint" "Connector_Dsub:DSUB-15_Socket_Horizontal_P2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm"
 			(at 241.3 104.14 0)
 			(effects
 				(font
@@ -5274,7 +5337,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "15-pin D-SUB connector, socket (female) (low-density/2 columns)"
+		(property "Description" "MH Connectors MHDD 15 Way Right Angle Through Hole D-sub Connector Socket, 2.77mm Pitch"
+			(at 241.3 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No" "MHDD15-F-T-B-S-R "
 			(at 241.3 104.14 0)
 			(effects
 				(font
@@ -5381,8 +5453,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "SMD Chip Resistor, Ceramic, 1 kohm, ± 1%, 125 mW, 0805 [2012 Metric], Thick Film, Sulfur Resistant"
 			(at 120.65 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No" "MCMR08X1001FTL"
+			(at 120.65 96.52 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5451,7 +5532,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 16 V, 0805 [2012 Metric], ± 10%, X7R"
+			(at 67.31 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No" "0805B104K160CT"
 			(at 67.31 76.2 0)
 			(effects
 				(font
@@ -5521,7 +5611,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Johnson Counter ( 10 outputs )"
+		(property "Description" "Counter IC Counter, Decade 1 Element 10 Bit Positive, Negative 16-SOIC"
+			(at 82.55 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No" "CD4017BM96"
 			(at 82.55 106.68 0)
 			(effects
 				(font

@@ -2683,7 +2683,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "AND Gate IC 4 Channel 14-SOIC"
+			(at 48.26 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No" "74HC08D"
 			(at 48.26 130.81 0)
 			(effects
 				(font
@@ -2787,7 +2796,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "AND Gate IC 4 Channel 14-SOIC"
+			(at 171.45 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No" "74HC08D"
 			(at 171.45 130.81 0)
 			(effects
 				(font
@@ -2891,7 +2909,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "AND Gate IC 4 Channel 14-SOIC"
+			(at 88.9 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No" "74HC08D"
 			(at 88.9 130.81 0)
 			(effects
 				(font
@@ -2995,7 +3022,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "AND Gate IC 4 Channel 14-SOIC"
+			(at 48.26 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No" "74HC08D"
 			(at 48.26 60.96 0)
 			(effects
 				(font
@@ -3231,7 +3267,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Dual 4 input OR gate"
+		(property "Description" "OR Gate IC 2 Channel 14-SOIC"
+			(at 204.47 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No" "CD4072BM96"
 			(at 204.47 33.02 0)
 			(effects
 				(font
@@ -3397,7 +3442,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 16 V, 0805 [2012 Metric], ± 10%, X7R"
+			(at 245.11 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No" "0805B104K160CT"
 			(at 245.11 110.49 0)
 			(effects
 				(font
@@ -3467,7 +3521,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Dual 4 input OR gate"
+		(property "Description" "OR Gate IC 2 Channel 14-SOIC"
+			(at 260.35 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No" "CD4072BM96"
 			(at 260.35 129.54 0)
 			(effects
 				(font
@@ -3565,7 +3628,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "AND Gate IC 4 Channel 14-SOIC"
+			(at 129.54 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No" "74HC08D"
 			(at 129.54 60.96 0)
 			(effects
 				(font
@@ -3735,7 +3807,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "AND Gate IC 4 Channel 14-SOIC"
+			(at 171.45 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No" "74HC08D"
 			(at 171.45 60.96 0)
 			(effects
 				(font
@@ -3971,7 +4052,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "AND Gate IC 4 Channel 14-SOIC"
+			(at 88.9 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No" "74HC08D"
 			(at 88.9 60.96 0)
 			(effects
 				(font
@@ -4143,7 +4233,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 16 V, 0805 [2012 Metric], ± 10%, X7R"
+			(at 33.02 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No" "0805B104K160CT"
 			(at 33.02 40.64 0)
 			(effects
 				(font
@@ -4211,7 +4310,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Dual 4 input OR gate"
+		(property "Description" "OR Gate IC 2 Channel 14-SOIC"
+			(at 204.47 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No" "CD4072BM96"
 			(at 204.47 102.87 0)
 			(effects
 				(font
@@ -4376,7 +4484,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "AND Gate IC 4 Channel 14-SOIC"
+			(at 129.54 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No" "74HC08D"
 			(at 129.54 130.81 0)
 			(effects
 				(font
@@ -4548,7 +4665,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "SMD Multilayer Ceramic Capacitor, 0.1 µF, 16 V, 0805 [2012 Metric], ± 10%, X7R"
+			(at 33.02 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No" "0805B104K160CT"
 			(at 33.02 110.49 0)
 			(effects
 				(font

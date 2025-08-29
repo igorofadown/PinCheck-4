@@ -1387,7 +1387,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED, Low Power, Green, Through Hole, T-1 (3mm), 20 mA, 2.2 V, 568 nm"
 			(at 21.59 168.91 0)
 			(effects
 				(font
@@ -1398,6 +1398,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 21.59 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No" "L-934GD"
+			(at 21.59 168.91 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1467,6 +1476,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 124.46 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No" ""
 			(at 124.46 179.07 0)
 			(effects
 				(font
@@ -1602,7 +1620,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "SMD Chip Resistor, 2.2 kohm, ± 1%, 100 mW, 0805 [2012 Metric], Thick Film, General Purpose"
+			(at 21.59 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No" "MC01W080512K2"
 			(at 21.59 179.07 0)
 			(effects
 				(font
@@ -1672,7 +1699,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED, Low Power, Green, Through Hole, T-1 (3mm), 20 mA, 2.2 V, 568 nm"
 			(at 72.39 168.91 0)
 			(effects
 				(font
@@ -1683,6 +1710,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 72.39 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No" "L-934GD"
+			(at 72.39 168.91 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1817,7 +1853,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED, Low Power, Green, Through Hole, T-1 (3mm), 20 mA, 2.2 V, 568 nm"
 			(at 62.23 168.91 0)
 			(effects
 				(font
@@ -1828,6 +1864,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 62.23 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No" "L-934GD"
+			(at 62.23 168.91 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1896,7 +1941,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "SMD Chip Resistor, 2.2 kohm, ± 1%, 100 mW, 0805 [2012 Metric], Thick Film, General Purpose"
+			(at 52.07 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No" "MC01W080512K2"
 			(at 52.07 179.07 0)
 			(effects
 				(font
@@ -2031,8 +2085,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Dual LED, common cathode on pin 3"
+		(property "Description" "LED, Green, Red, Through Hole, T-1 (3mm), 60 °, Round, R 30mA, G 25mA"
 			(at 90.17 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No" "L-93WEGW"
+			(at 90.17 177.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2104,7 +2167,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "SMD Chip Resistor, 2.2 kohm, ± 1%, 100 mW, 0805 [2012 Metric], Thick Film, General Purpose"
+			(at 41.91 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No" "MC01W080512K2"
 			(at 41.91 179.07 0)
 			(effects
 				(font
@@ -2306,7 +2378,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "SMD Chip Resistor, 2.2 kohm, ± 1%, 100 mW, 0805 [2012 Metric], Thick Film, General Purpose"
+			(at 92.71 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No" "MC01W080512K2"
 			(at 92.71 166.37 0)
 			(effects
 				(font
@@ -2715,6 +2796,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part No" ""
+			(at 147.32 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c8d69604-2302-471c-b255-39d2fa4eb85c")
 		)
@@ -2776,7 +2866,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED, Low Power, Green, Through Hole, T-1 (3mm), 20 mA, 2.2 V, 568 nm"
 			(at 41.91 168.91 0)
 			(effects
 				(font
@@ -2787,6 +2877,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 41.91 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No" "L-934GD"
+			(at 41.91 168.91 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2894,7 +2993,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "Y LED"
 			(at 35.56 171.7674 90)
 			(effects
 				(font
@@ -2921,7 +3020,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED, Low Power, Orange, Through Hole, T-1 (3mm), 20 mA, 2.05 V, 610 nm"
 			(at 31.75 168.91 0)
 			(effects
 				(font
@@ -2932,6 +3031,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 31.75 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No" "L-934ND"
+			(at 31.75 168.91 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3066,7 +3174,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "SMD Chip Resistor, 2.2 kohm, ± 1%, 100 mW, 0805 [2012 Metric], Thick Film, General Purpose"
+			(at 62.23 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No" "MC01W080512K2"
 			(at 62.23 179.07 0)
 			(effects
 				(font
@@ -3211,6 +3328,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part No" ""
+			(at 135.89 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "57206ab3-c271-46b7-b921-36b4f19ffaa9")
 		)
@@ -3272,7 +3398,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "SMD Chip Resistor, Ceramic, 2.7 kohm, ± 1%, 125 mW, 0805 [2012 Metric], Thick Film"
+			(at 31.75 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No" "MCMR08X2701FTL"
 			(at 31.75 179.07 0)
 			(effects
 				(font
@@ -3342,7 +3477,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "SMD Chip Resistor, Ceramic, 2.7 kohm, ± 1%, 125 mW, 0805 [2012 Metric], Thick Film"
+			(at 87.63 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No" "MCMR08X2701FTL"
 			(at 87.63 166.37 0)
 			(effects
 				(font
@@ -3478,7 +3622,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED, Low Power, Green, Through Hole, T-1 (3mm), 20 mA, 2.2 V, 568 nm"
 			(at 52.07 168.91 0)
 			(effects
 				(font
@@ -3489,6 +3633,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 52.07 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No" "L-934GD"
+			(at 52.07 168.91 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3557,7 +3710,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "SMD Chip Resistor, 2.2 kohm, ± 1%, 100 mW, 0805 [2012 Metric], Thick Film, General Purpose"
+			(at 72.39 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part No" "MC01W080512K2"
 			(at 72.39 179.07 0)
 			(effects
 				(font
