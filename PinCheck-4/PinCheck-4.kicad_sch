@@ -1369,7 +1369,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D3.0mm_Clear"
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 21.59 168.91 0)
 			(effects
 				(font
@@ -1387,7 +1387,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "LED, Low Power, Green, Through Hole, T-1 (3mm), 20 mA, 2.2 V, 568 nm"
+		(property "Description" "LED, Low Power, Green, SMD, 0805 [2012 Metric], 20 mA, 2.1 V, 570 nm"
 			(at 21.59 168.91 0)
 			(effects
 				(font
@@ -1405,7 +1405,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part No" "L-934GD"
+		(property "Manufacturer Part No" "KP-2012MGC"
 			(at 21.59 168.91 90)
 			(effects
 				(font
@@ -1681,7 +1681,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D3.0mm_Clear"
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 72.39 168.91 0)
 			(effects
 				(font
@@ -1699,7 +1699,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "LED, Low Power, Green, Through Hole, T-1 (3mm), 20 mA, 2.2 V, 568 nm"
+		(property "Description" "LED, Low Power, Green, SMD, 0805 [2012 Metric], 20 mA, 2.1 V, 570 nm"
 			(at 72.39 168.91 0)
 			(effects
 				(font
@@ -1717,7 +1717,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part No" "L-934GD"
+		(property "Manufacturer Part No" "KP-2012MGC"
 			(at 72.39 168.91 90)
 			(effects
 				(font
@@ -1835,7 +1835,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D3.0mm_Clear"
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 62.23 168.91 0)
 			(effects
 				(font
@@ -1853,7 +1853,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "LED, Low Power, Green, Through Hole, T-1 (3mm), 20 mA, 2.2 V, 568 nm"
+		(property "Description" "LED, Low Power, Green, SMD, 0805 [2012 Metric], 20 mA, 2.1 V, 570 nm"
 			(at 62.23 168.91 0)
 			(effects
 				(font
@@ -1871,7 +1871,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part No" "L-934GD"
+		(property "Manufacturer Part No" "KP-2012MGC"
 			(at 62.23 168.91 90)
 			(effects
 				(font
@@ -2848,7 +2848,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D3.0mm_Clear"
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 41.91 168.91 0)
 			(effects
 				(font
@@ -2866,7 +2866,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "LED, Low Power, Green, Through Hole, T-1 (3mm), 20 mA, 2.2 V, 568 nm"
+		(property "Description" "LED, Low Power, Green, SMD, 0805 [2012 Metric], 20 mA, 2.1 V, 570 nm"
 			(at 41.91 168.91 0)
 			(effects
 				(font
@@ -2884,7 +2884,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part No" "L-934GD"
+		(property "Manufacturer Part No" "KP-2012MGC"
 			(at 41.91 168.91 90)
 			(effects
 				(font
@@ -3002,7 +3002,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D3.0mm_Clear"
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 31.75 168.91 0)
 			(effects
 				(font
@@ -3020,7 +3020,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "LED, Low Power, Orange, Through Hole, T-1 (3mm), 20 mA, 2.05 V, 610 nm"
+		(property "Description" "LED, Low Power, Orange, SMD, 0805 [2012 Metric], 20 mA, 2.1 V, 601 nm"
 			(at 31.75 168.91 0)
 			(effects
 				(font
@@ -3038,7 +3038,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part No" "L-934ND"
+		(property "Manufacturer Part No" "KP-2012SECK"
 			(at 31.75 168.91 90)
 			(effects
 				(font
@@ -3604,7 +3604,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D3.0mm_Clear"
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 52.07 168.91 0)
 			(effects
 				(font
@@ -3622,7 +3622,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "LED, Low Power, Green, Through Hole, T-1 (3mm), 20 mA, 2.2 V, 568 nm"
+		(property "Description" "LED, Low Power, Green, SMD, 0805 [2012 Metric], 20 mA, 2.1 V, 570 nm"
 			(at 52.07 168.91 0)
 			(effects
 				(font
@@ -3640,7 +3640,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part No" "L-934GD"
+		(property "Manufacturer Part No" "KP-2012MGC"
 			(at 52.07 168.91 90)
 			(effects
 				(font

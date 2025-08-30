@@ -3889,7 +3889,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_PTS645Sx43SMTR92"
 			(at 36.83 93.98 0)
 			(effects
 				(font
@@ -3907,7 +3907,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Tactile Switch SPST-NO Top Actuated Through Hole"
+		(property "Description" "TS04-66-70-BK-160-SMT"
 			(at 36.83 93.98 0)
 			(effects
 				(font
@@ -3916,7 +3916,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part No" "TS02-66-70-BK-260-LCR-D"
+		(property "Manufacturer Part No" "TS04-66-70-BK-160-SMT"
 			(at 36.83 93.98 0)
 			(effects
 				(font
