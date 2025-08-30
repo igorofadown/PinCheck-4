@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'OS102011MA1QS1'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "C & K COMPONENTS", "OS102011MA1QS1" (!) = "", "OS102011MA1QS1", "Other", "N/A", "https://www.mouser.co.uk/ProductDetail/CK/OS102011MA1QS1?qs=WtljUlYws5QESxS45g%252B0yg%3D%3D", "OS102011MA1QS1", "https://www.arrow.com/en/products/os102011ma1qs1/ck?region=nac", "SWITCH SLIDE SPDT 100MA 12V", "https://www.digikey.ph/en/products/detail/c-k/OS102011MA1QS1/1981431?msockid=39f1ec84d77b6f4428b7f904d6676eed", "4.7 mm"
+END_PART
+
+END.

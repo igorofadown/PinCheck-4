@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-05052011-080692";"";
+"REFERENCE";"B3J-4100";"";
+"TraceParts.PartTitle";"Tactile Switch (Hinged Type) – B3J";"";
+"TraceParts.InstanceId";"10-05052011-0806921JVLG2BCCQ3G6JB48GTLEYP9P";"";
+"DESIGN";"Tactile Switch with One LED - Green, Black Actuator";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"OMRON";"";
+"TraceParts.PartVersion";"1.1.1";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"OMRON:10-05052011-080692";"";

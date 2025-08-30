@@ -1,4 +1,4 @@
-26638123354489254
+26643393014063771
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -587,6 +587,13 @@ Matias ALPS keyswitch ISO enter
 0
 2
 2
+Button_Switch_SMD
+450404015514
+
+
+0
+7
+7
 Button_Switch_SMD
 Nidec_Copal_CAS-120A
 Slide Switch, SMD, Nidec CAS series, https://www.nidec-components.com/e/catalog/switch/cas.pdf
@@ -1778,6 +1785,13 @@ switch tactile SPST 1P1T straight NO SMTR C&K
 2
 2
 Button_Switch_THT
+B3J-2xxx_3xxx_4xxx_OMR
+
+B3J-4100 
+0
+8
+8
+Button_Switch_THT
 KSA_Tactile_SPST
 KSA http://www.ckswitches.com/media/1457/ksa_ksl.pdf
 SWITCH SMD KSA SW
@@ -1790,6 +1804,13 @@ Nidec_Copal_SH-7010C
 rotary switch bcd
 0
 6
+5
+Button_Switch_THT
+OS102011MA1QS1
+OS102011MA1QS1-2
+Switch
+0
+5
 5
 Button_Switch_THT
 Push_E-Switch_KS01Q01
