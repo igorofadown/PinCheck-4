@@ -3170,7 +3170,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "12e659a5-c922-4f3d-b9b3-19781f8f4699")
-		(property "Reference" "#PWR044"
+		(property "Reference" "#PWR045"
 			(at 93.98 114.3 0)
 			(effects
 				(font
@@ -3220,7 +3220,7 @@
 		(instances
 			(project "PinCheck-4"
 				(path "/8e21fa9a-50eb-4ff7-ab75-73c4d6c5f942/dc8a47c7-af7d-496f-bdd4-71159f816556"
-					(reference "#PWR044")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -3236,7 +3236,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "13134202-8098-46f4-bec7-20ff40e4a436")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR043"
 			(at 71.12 137.16 0)
 			(effects
 				(font
@@ -3286,7 +3286,7 @@
 		(instances
 			(project "PinCheck-4"
 				(path "/8e21fa9a-50eb-4ff7-ab75-73c4d6c5f942/dc8a47c7-af7d-496f-bdd4-71159f816556"
-					(reference "#PWR042")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -3834,7 +3834,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "31ab961b-9ab2-4593-9040-fb0c32bb2bfa")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR039"
 			(at 25.4 156.21 0)
 			(effects
 				(font
@@ -3884,7 +3884,7 @@
 		(instances
 			(project "PinCheck-4"
 				(path "/8e21fa9a-50eb-4ff7-ab75-73c4d6c5f942/dc8a47c7-af7d-496f-bdd4-71159f816556"
-					(reference "#PWR038")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -4445,7 +4445,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "60b2b1b6-c65e-422d-98c1-6265e456aaab")
-		(property "Reference" "#PWR043"
+		(property "Reference" "#PWR044"
 			(at 71.12 190.5 0)
 			(effects
 				(font
@@ -4495,7 +4495,7 @@
 		(instances
 			(project "PinCheck-4"
 				(path "/8e21fa9a-50eb-4ff7-ab75-73c4d6c5f942/dc8a47c7-af7d-496f-bdd4-71159f816556"
-					(reference "#PWR043")
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -4673,7 +4673,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "962f60fb-271d-4572-94d8-0637a107ab78")
-		(property "Reference" "#PWR045"
+		(property "Reference" "#PWR046"
 			(at 128.27 123.19 0)
 			(effects
 				(font
@@ -4723,7 +4723,7 @@
 		(instances
 			(project "PinCheck-4"
 				(path "/8e21fa9a-50eb-4ff7-ab75-73c4d6c5f942/dc8a47c7-af7d-496f-bdd4-71159f816556"
-					(reference "#PWR045")
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -4818,7 +4818,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a2a205ab-ae01-4d1a-8c28-82b352f09249")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR042"
 			(at 55.88 156.21 0)
 			(effects
 				(font
@@ -4868,7 +4868,7 @@
 		(instances
 			(project "PinCheck-4"
 				(path "/8e21fa9a-50eb-4ff7-ab75-73c4d6c5f942/dc8a47c7-af7d-496f-bdd4-71159f816556"
-					(reference "#PWR041")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -5227,7 +5227,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b5146052-e5d0-48e1-9fd1-04bcbe43f55a")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR041"
 			(at 40.64 190.5 0)
 			(effects
 				(font
@@ -5277,7 +5277,7 @@
 		(instances
 			(project "PinCheck-4"
 				(path "/8e21fa9a-50eb-4ff7-ab75-73c4d6c5f942/dc8a47c7-af7d-496f-bdd4-71159f816556"
-					(reference "#PWR040")
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -5485,7 +5485,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e89168fb-016b-4b4a-910c-77441940bcae")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR040"
 			(at 40.64 137.16 0)
 			(effects
 				(font
@@ -5535,7 +5535,7 @@
 		(instances
 			(project "PinCheck-4"
 				(path "/8e21fa9a-50eb-4ff7-ab75-73c4d6c5f942/dc8a47c7-af7d-496f-bdd4-71159f816556"
-					(reference "#PWR039")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)

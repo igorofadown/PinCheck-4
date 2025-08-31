@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model AAA3528ESGCT
+#/1266688/1207053/2.50/4/4/LED
+DEF AAA3528ESGCT LED 0 30 Y Y 1 F N
+F0 "LED" 1250 300 50 H V L CNN
+F1 "AAA3528ESGCT" 1250 200 50 H V L CNN
+F2 "AAA3528ESGCT" 1250 100 50 H I L CNN
+F3 "https://www.arrow.com/en/products/aaa3528esgct/kingbright" 1250 0 50 H I L CNN
+F4 "Standard LEDs - SMD 3.5mmX2.8mm SMD LED LAMP RED GREEN" 1250 -100 50 H I L CNN "Description"
+F5 "2.1" 1250 -200 50 H I L CNN "Height"
+F6 "Kingbright" 1250 -300 50 H I L CNN "Manufacturer_Name"
+F7 "AAA3528ESGCT" 1250 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "604-AAA3528ESGCT" 1250 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Kingbright/AAA3528ESGCT?qs=HXFqYaX1Q2ztii0bK20PQg%3D%3D" 1250 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "AAA3528ESGCT" 1250 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/aaa3528esgct/kingbright?utm_currency=USD&region=nac" 1250 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X K_RED 1 1400 -100 200 L 50 50 0 0 P
+X A_RED 2 0 -100 200 R 50 50 0 0 P
+X K_GREEN 3 0 0 200 R 50 50 0 0 P
+X A_GREEN 4 1400 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1200 100 1200 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

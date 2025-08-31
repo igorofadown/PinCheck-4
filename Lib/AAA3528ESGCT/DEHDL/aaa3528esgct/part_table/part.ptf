@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'AAA3528ESGCT'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Kingbright", "AAA3528ESGCT" (!) = "", "AAA3528ESGCT", "Other", "604-AAA3528ESGCT", "https://www.mouser.co.uk/ProductDetail/Kingbright/AAA3528ESGCT?qs=HXFqYaX1Q2ztii0bK20PQg%3D%3D", "AAA3528ESGCT", "https://www.arrow.com/en/products/aaa3528esgct/kingbright?utm_currency=USD&region=nac", "Standard LEDs - SMD 3.5mmX2.8mm SMD LED LAMP RED GREEN", "https://www.arrow.com/en/products/aaa3528esgct/kingbright", "2.1 mm"
+END_PART
+
+END.

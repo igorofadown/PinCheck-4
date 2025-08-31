@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "AAA3528ESGCT"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-05-26-14:26:32)
+    (mountForm default
+        (footprintRef "AAA3528ESGCT")
+        (spec "System")
+    )
+)

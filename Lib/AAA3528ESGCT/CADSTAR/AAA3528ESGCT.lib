@@ -1,0 +1,18 @@
+.AAA3528ESGCT :1 ;Standard LEDs - SMD 3.5mmX2.8mm SMD LED LAMP RED GREEN
+AAA3528ESGCT
+*STM LED
+*NGS
+*PLB 1="K RED" 2="A RED" 3="K GREEN" 4="A GREEN"
+*MXP 4
+*DFN AAA3528ESGCT
+~!Manufacturer_Name (Kingbright)
+~!Manufacturer_Part_Number (AAA3528ESGCT)
+~!Mouser Part Number (604-AAA3528ESGCT)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Kingbright/AAA3528ESGCT?qs=HXFqYaX1Q2ztii0bK20PQg%3D%3D)
+~!Arrow Part Number (AAA3528ESGCT)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/aaa3528esgct/kingbright?utm_currency=USD&region=nac)
+~!Link Datasheet (https://www.arrow.com/en/products/aaa3528esgct/kingbright)
+~!Height (2.1mm)
+~!3D_Model (AAA3528ESGCT)
+AAA3528ESGCT
+1.1!U 2.1!U 3.1!U 4.1!U 
