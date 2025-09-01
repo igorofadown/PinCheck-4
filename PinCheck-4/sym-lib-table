@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PinCheck-4_Library")(type "KiCad")(uri "${KIPRJMOD}/PinCheck-4_Library.kicad_sym")(options "")(descr ""))
+)

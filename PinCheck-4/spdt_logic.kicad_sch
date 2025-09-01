@@ -5427,7 +5427,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e6e42b52-97e8-4cd5-b4c3-0f3170607192")
-		(property "Reference" "J2"
+		(property "Reference" "J1"
 			(at 246.38 102.8699 0)
 			(effects
 				(font
@@ -5529,7 +5529,7 @@
 		(instances
 			(project "PinCheck-4"
 				(path "/8e21fa9a-50eb-4ff7-ab75-73c4d6c5f942/9f925a3b-1ca7-46c5-bc3a-22e483273a15"
-					(reference "J2")
+					(reference "J1")
 					(unit 1)
 				)
 			)
