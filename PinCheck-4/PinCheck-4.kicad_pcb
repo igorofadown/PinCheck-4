@@ -4801,6 +4801,17 @@
 				(xyz -90 -0 -0)
 			)
 		)
+		(model "C:/Users/Igor Oliveira/Desktop/GitHub/PinCheck-4/Lib/OS102011MA1QS1/3D/OS102011MA1QS1.stp"
+			(offset
+				(xyz 2 0 4)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
