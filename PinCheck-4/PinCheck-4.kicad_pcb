@@ -24124,7 +24124,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "CCBFH-ISO-DB15H4P3825.01"
+	(gr_text "CBFH-ISO-DB15H4P3825.01"
 		(at 139.323873 72.119948 180)
 		(layer "B.SilkS")
 		(uuid "dcea4f42-7652-49eb-86f2-977b3d6fe853")
